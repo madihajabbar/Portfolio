@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width-devide-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie-edge">
-    <title>Hi, I'm Madiha Jabbar</title>
+    <title>Madiha Jabbar</title>
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -13,7 +13,7 @@
     <div class="wrapper">
         <nav>
             <div class="logo">
-                D.
+                MJ
             </div>
 
             <ul class="nav-items">
@@ -41,6 +41,19 @@
     </div>
 </div>
 
+<div class="header-container">
+    <div class="wrapper">
+        <header>
+            <div class="hero-content"></div>
+            <h1>Hi, I'm Madiha Jabbar</h1>
+            <p>
+                UX/UI DESIGNER - PROBLEM SOLVER - RESEARCHER
+            </p>
+            <div class="hero-image"></div>
+            <div class="photo-bg"
+        </header>
+    </div>
+</div>
 <script src="main.js"></script>
 </body>
 </html>
